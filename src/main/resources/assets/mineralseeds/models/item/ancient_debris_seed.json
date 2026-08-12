@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mineralseeds:item/ancient_debris_seed"
+  }
+}

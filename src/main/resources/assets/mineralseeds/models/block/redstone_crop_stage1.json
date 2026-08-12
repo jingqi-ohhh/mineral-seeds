@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "mineralseeds:block/redstone_crop_stage1"
+  }
+}

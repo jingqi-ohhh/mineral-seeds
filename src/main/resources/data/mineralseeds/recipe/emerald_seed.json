@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SMS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "M": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "mineralseeds:emerald_seed",
+    "count": 8
+  }
+}

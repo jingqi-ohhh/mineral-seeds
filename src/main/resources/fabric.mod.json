@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "mineralseeds",
+  "version": "${version}",
+  "name": "Mineral Seeds",
+  "description": "Plant mineral seeds on farmland, grow them, and harvest ores! 在耕地上种植矿物种子，收获矿物！",
+  "authors": ["jingqi-ohhh"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.jingqi.mineralseeds.MineralSeedsMod"
+    ],
+    "client": [
+      "com.jingqi.mineralseeds.MineralSeedsModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": ">=0.88.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}
