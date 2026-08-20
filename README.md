@@ -22,8 +22,6 @@
 - Minecraft 1.21.1 + Fabric
 - Minecraft 1.20.1 + Fabric
 
-切换版本：修改 `gradle.properties` 中的 `minecraft_version` 和对应依赖版本。
-
 ## 构建
 
 ```bash
