@@ -6,6 +6,7 @@
   "description": "Plant mineral seeds on farmland, grow them, and harvest ores! 在耕地上种植矿物种子，收获矿物！",
   "authors": ["jingqi-ohhh"],
   "license": "MIT",
+  "icon": "assets/mineralseeds/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
