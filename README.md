@@ -1,3 +1,18 @@
+# Mineral Seeds
+Plant mineral seeds on farmland to harvest minerals!
+## Supported Minerals (12 types)
+Coal · Iron · Gold · Copper · Redstone · Lapis Lazuli · Diamond · Emerald · Nether Quartz · Ancient Debris · Netherite · Glowstone
+## Crafting Recipe
+1 mineral (center) + 8 wheat seeds (surrounding) = 8 mineral seeds
+## Gameplay
+1. Craft mineral seeds
+2. Right‑click to plant on farmland
+3. Wait through 4 growth stages (bone meal can accelerate growth)
+4. Harvest 1‑3 pieces of the corresponding mineral
+## Version Support
+- Minecraft 1.21.1 + Fabric
+- Minecraft 1.20.1 + Fabric
+
 # Mineral Seeds（矿物种子）
 
 在耕地上种植矿物种子，收获矿物！
