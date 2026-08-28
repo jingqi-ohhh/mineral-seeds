@@ -21,11 +21,3 @@
 
 - Minecraft 1.21.1 + Fabric
 - Minecraft 1.20.1 + Fabric
-
-## 构建
-
-```bash
-./gradlew build
-```
-
-JAR 文件在 `build/libs/` 下。
